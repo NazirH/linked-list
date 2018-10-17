@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=LinkedList
+comment0.text=\r\n\ Creating\ a\ simple\ linkedList\ class.\r\n\ The\ Node\ class\ contains\ an\ Int\ and\ a\ pointer\ to\ the\ next\ Node\ named\ next.\r\n\ this\ is\ a\ classic\ scenario\ of\ the\ LinkedList.\r\n\r\n\ @author\ (Nazir\ Hajje)\r\n\ @version\ (1)\r\n
+comment1.params=data
+comment1.target=void\ append(int)
+comment2.params=data
+comment2.target=void\ prepend(int)
+comment3.params=data
+comment3.target=void\ deleteWithValue(int)
+comment4.params=
+comment4.target=void\ print()
+numComments=5
